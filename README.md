@@ -7,3 +7,8 @@
   - <code>python manage.py makemigrations snippets</code>
   - <code>python manage.py migrate</code>
   - <code>python manage.py runserver</code>
+  - se rendre à l'adresse <code>http://127.0.0.1:8000</code>
+  
+  - se connecter:
+          user : admin
+          password : 12345678
